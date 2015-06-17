@@ -1,9 +1,9 @@
-# The WordPress Experiment
-A place to talk about WordPress, what you want to see changed, and potentially a new BackPress
+# Helium - A WordPress Experiment
+A place to talk about WordPress, what you want to see changed. The name `Helium` may be changed in the near future.
   
 On June 16th, [JJJ](https://twitter.com/JJJ) and [royboy789](https://twitter.com/royboy789) hosted a hangout session talking about bring back BackPress, as a new inner core library for WordPress removing or modularizing WordPress.  
 Some questions need to be answered.
-  
+
 ## Why
 Why do we need to build out a new experimental project for WordPress?  
 Are there obstacles in really creating applications with WordPress currently?  
