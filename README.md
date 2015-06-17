@@ -15,8 +15,11 @@ The main goal is to see if there is enough __need__ for BackPress to live again,
 ## How
 __IF__ we decide to support a new experimental project, would it be a continuation of BackPress, a re-write, or a new project all together. Would it start from WordPress as it is today, or would it start from scratch?
   
-## Fundamental / Philosophical Differences
+## Fundamental / Design Differences
+### Backwards Compatibility
 Some issues cannot be created as feature plugins because of strict guidelines to stay backwards compatible. __IF__ an experimental project were to be born, it would have to decide from the get go, if it will be backwards compatible to WordPress standards.
+### Design Pattern
+Something else to consider is the design pattern, would the new experiment be MVC or [ADR](http://carlalexander.ca/thoughts-wordpress-and-mvc-pattern/), or should it keep the same design pattern as the current WordPress. How does that decision effect the backwards compatibility?
 
 ## How to help
 This is an open, empty repo. Create [issues](https://github.com/royboy789/the-wp-experiment/issues) describing in detail obstacles, challenges, and problems you see with WordPress. We will discuss these issues and see if there is any reason to create this experimental project, or maybe we start a collaboration of feature plugins 
