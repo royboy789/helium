@@ -11,3 +11,8 @@ Potential list of Components / Modules for project
 - Settings
 - Templating
 - Theme
+  
+__User Related Components__  
+- Storage
+- Authentication
+- Role Management
