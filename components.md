@@ -19,5 +19,5 @@ __User Related Components__
 
 __Media Related Components__
 - Storage
-- Optimization
-- Resizing
+- Responsive Images
+- Image Editing _crop, resize, coloration, etc._
