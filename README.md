@@ -8,7 +8,7 @@ Some questions need to be answered.
 We will be hosting Hangouts you can view every Tuesday at 2pm (PDT/PST)  
 You can chat with us on Gitter  
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/royboy789/helium?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)  
-If you want to chat on Slack DM [MattC](https://twitter.com/learnwithmattc) from __AdvancedWP__  - we are keeping the slack channel for those who want to participate in core conversation and contribute code.
+If you want to chat on Slack DM [MattC](https://twitter.com/learnwithmattc) from __AdvancedWP__  your email address - we are keeping the slack channel for those who want to participate in core conversation and contribute code.
 
 ## Why
 Why do we need to build out a new experimental project for WordPress?  
