@@ -16,3 +16,8 @@ __User Related Components__
 - Storage
 - Authentication
 - Role Management
+
+__Media Related Components__
+- Storage
+- Optimization
+- Resizing
