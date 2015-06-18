@@ -4,6 +4,12 @@ A place to talk about WordPress, what you want to see changed. The name `Helium`
 On June 16th, [JJJ](https://twitter.com/JJJ) and [royboy789](https://twitter.com/royboy789) hosted a hangout session talking about bring back BackPress, as a new inner core library for WordPress removing or modularizing WordPress.  
 Some questions need to be answered.
 
+## Chat with us
+We will be hosting Hangouts you can view every Tuesday at 2pm (PDT/PST)  
+You can chat with us on Gitter  
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/royboy789/helium?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)  
+If you want to chat on Slack DM [MattC](https://twitter.com/learnwithmattc) from __AdvancedWP__  - we are keeping the slack channel for those who want to participate in core conversation and contribute code.
+
 ## Why
 Why do we need to build out a new experimental project for WordPress?  
 Are there obstacles in really creating applications with WordPress currently?  
