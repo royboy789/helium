@@ -22,7 +22,7 @@ __Media Related Components__
 - Responsive Images
 - Image Editing _(crop, resize, coloration, etc.)_
 
-__Backwards Compatibility Components_  
+__Backwards Compatibility Components__  
 _all existing Classes and APIs should work as they do in WP now_  
 - Rewrite API
 - Plugin API
