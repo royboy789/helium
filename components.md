@@ -20,4 +20,11 @@ __User Related Components__
 __Media Related Components__
 - Storage
 - Responsive Images
-- Image Editing _crop, resize, coloration, etc._
+- Image Editing _(crop, resize, coloration, etc.)_
+
+__Backwards Compatibility Components_  
+_all existing Classes and APIs should work as they do in WP now_  
+- Rewrite API
+- Plugin API
+- WP_Query
+- Content Creation Functions _(register_post_type, register_taxonomy, etc.)_
