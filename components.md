@@ -1,6 +1,7 @@
 Potential list of Components / Modules for project
 - Cache
 - Console
+- Database
 - Hooks
 - Http
 - Options
